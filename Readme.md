@@ -1,0 +1,1 @@
+When a house on the Google Maps is clicked, display the postal address and the estimated price of the house using two web services: Google Maps and the Zillow API, using JavaScript and AJAX
